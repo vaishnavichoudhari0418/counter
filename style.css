@@ -67,3 +67,21 @@ p{
     border: 1px solid gold;
 
 }
+.price{
+    font-family: Oswald;
+    font-size: 20px;
+  }
+  .info{
+    color: slategrey;
+  }
+  .quantity-btn-container {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+#quantity{
+    margin-top: 15px;
+}
+.btn{
+height: 35px;
+}
